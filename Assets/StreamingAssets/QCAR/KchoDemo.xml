@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ruedas3" size="50.000000 31.250000" />
+    <ImageTarget name="ruedas2" size="50.000000 28.125000" />
+    <ImageTarget name="ruedas1" size="50.000000 50.000000" />
+    <ImageTarget name="piso1" size="30.000000 32.943924" />
+    <ImageTarget name="mariposa" size="50.000000 31.250000" />
+    <ImageTarget name="mar1" size="50.000000 31.250000" />
+    <ImageTarget name="piso" size="50.000000 44.444443" />
+    <ImageTarget name="sea" size="50.000000 28.125000" />
+    <ImageTarget name="cielo" size="50.000000 33.342258" />
+  </Tracking>
+</QCARConfig>
